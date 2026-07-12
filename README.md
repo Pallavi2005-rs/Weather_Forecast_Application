@@ -1,9 +1,9 @@
 # 🌤️ Weather Forecast Application
 
-## 📌 Overview
+## Overview
 The Weather Forecast Application is a web-based application developed using Python that provides real-time weather information for any city. It retrieves weather data from the OpenWeatherMap API and displays details such as temperature, humidity, pressure, weather conditions, and wind speed through a simple and user-friendly interface.
 
-## 🚀 Features
+## Features
 - Search weather by city name
 - Display current temperature
 - Show humidity and atmospheric pressure
@@ -12,14 +12,14 @@ The Weather Forecast Application is a web-based application developed using Pyth
 - User-friendly web interface
 - Real-time weather updates using API
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - HTML
 - CSS
 - JavaScript
 - OpenWeatherMap API
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Weather-Forecast-Application/
@@ -28,7 +28,7 @@ Weather-Forecast-Application/
 │── README.md
 ```
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone the repository.
 2. Install Python.
@@ -46,7 +46,7 @@ python server.py
 http://localhost:8000
 ```
 
-## 📊 Output
+## Output
 The application displays:
 - City Name
 - Temperature (°C)
@@ -55,12 +55,12 @@ The application displays:
 - Weather Description
 - Wind Speed
 
-## 🔮 Future Enhancements
+## Future Enhancements
 - 5-day weather forecast
 - Current location weather
 - Weather maps
 - Dark mode
 - Responsive mobile design
 
-## 👩‍💻 Author
+## Author
 **Pallavi R S**
